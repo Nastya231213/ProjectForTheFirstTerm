@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Open+Sans:wght@400;500&family=Roboto:wght@300;400&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgba(240, 241, 242, 0.879);
+}
+
+#bar {
+
+    height: 80px;
+    background: linear-gradient(to bottom, #0d0d6d, #00008b);
+    color: white;
+    padding: 7px;
+}
+
+
+#signup_button {
+    background-color: #4fb133;
+    width: 80px;
+    text-align: center;
+    padding: 4px;
+    color: aliceblue;
+    border-radius: 5px;
+    float: right;
+    margin-right: 5px;
+
+
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+
+#login_bar {
+    background-color: white;
+    width: 800px;
+    height: 300px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 10px;
+    text-align: center;
+    padding-top: 50px;
+    color:black;
+    font-weight: bold;
+
+}
+
+#text {
+    height: 35px;
+    width: 300px;
+    border-radius: 4px;
+    border: solid 1px rgb(194, 190, 190);
+    color:gray;
+
+}
+#button{
+    width:300px;
+    height:35px;
+    border-radius:4px;
+    font-weight:bold;
+    color:white;
+    background: linear-gradient(to bottom,#00008b, #0d0d6d);
+    border:0px;
+
+}
+
+
