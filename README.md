@@ -16,7 +16,7 @@ NetSpheret" - це соціальна мережа, яка дозволяє ко
 
 Лабораторна робота 2 
 
-7 окремих сторінок з 1 чи більше інтегрованими компонентами(login.php,edit.php,profile.php,signup.php,signle_post.php,notifications.php,index.php),27 елементів керування власного створення, 23 обробників подій, 1 таблиця
+7 окремих сторінок з 1 чи більше інтегрованими компонентами(login.php,edit.php,profile.php,signup.php,signle_post.php,notifications.php,index.php),27 елементів керування власного створення, 23 обробників подій
 
 Лабораторна робота 3
 
