@@ -89,6 +89,8 @@ Figma: Інструмент веб-дизайну.
 <h2>Використані джерела</h2>
 Звичайно, для створення проекту було використано багато навчальних джерел. Ось основні з них, що допомогли мені написати свій код:
 
+* https://www.youtube.com/playlist?list=PLY3j36HMSHNWaKUC73RJlwi6oU-WTpTPM
+
 * https://www.php.net/manual/en/book.mysqli.php
 
 * https://www.php.net/manual/en/book.image.php
